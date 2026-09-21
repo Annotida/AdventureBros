@@ -6,6 +6,11 @@ AdventureBros is a 3D action-adventure game developed as part of a university Co
 
 The project was developed using Unity and C#, with a focus on gameplay programming, player interaction, combat mechanics, enemy behaviour, level progression and game systems.
 
+[![Unity](https://img.shields.io/badge/Unity-Game%20Engine-black?logo=unity)](https://unity.com/)
+[![C#](https://img.shields.io/badge/C%23-Programming%20Language-239120?logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Platform](https://img.shields.io/badge/Platform-Windows-blue?logo=windows)](https://www.microsoft.com/windows)
+[![Release](https://img.shields.io/github/v/release/Annotida/AdventureBros)](https://github.com/Annotida/AdventureBros/releases)
+
 ## Game Features
 
 - 3D player movement
@@ -34,29 +39,15 @@ The project was developed using Unity and C#, with a focus on gameplay programmi
 - **Unity Animation System**
 - **Unity Audio System**
 
-## 📸 Gameplay
+## 📥 Download
 
-### Main Menu
-
-![AdventureBros Main Menu](screenshots/main-menu.png)
-
-### Gameplay
-
-![AdventureBros Gameplay](screenshots/gameplay.png)
-
-### Boss Encounter
-
-![AdventureBros Boss Fight](screenshots/boss-fight.png)
-
-### Victory
-
-![AdventureBros Victory Screen](screenshots/victory.png)
+Download the Windows build from the
+[**latest release**](https://github.com/Annotida/AdventureBros/releases/latest).
 
 ## 🎥 Gameplay Demo
 
-A gameplay demonstration is included with this project.
-
-The video demonstrates the game's gameplay flow, player movement, combat, enemy encounters and progression.
+The gameplay demonstration is available in the
+[**v1.0.0 Release**](https://github.com/Annotida/AdventureBros/releases/tag/v1.0.0).
 
 ## 📦 Build
 
